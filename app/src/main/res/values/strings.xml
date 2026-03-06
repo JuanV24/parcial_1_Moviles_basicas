@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">restaurant_proyect</string>
+    <string name="he_olvidado_mi_contrase_a">He olvidado mi contraseña</string>
+    <string name="ingresar_">Ingresar</string>
+    <string name="clave_secreta">Clave secreta</string>
+    <string name="guerrero_usuario">Guerrero (Usuario)</string>
+    <string name="la_cocina_del_goro">LA COCINA DEL GORO</string>
+    <string name="el_men_de_shokan">EL MENÚ DE SHOKAN</string>
+    <string name="selecciona_un_corte_para_ver_detalles">Selecciona un corte para ver detalles</string>
+    <string name="volver_al_resumen">VOLVER AL RESUMEN</string>
+    <string name="nombre_del_cliente">Nombre del Cliente:</string>
+    <string name="tu_nombre_de_guerrero">Tu nombre de guerrero</string>
+    <string name="continuar">CONTINUAR</string>
+    <string name="ej_asados_y_parrilladas">Ej. Asados y Parrilladas</string>
+    <string name="rubro_especialidad">Rubro (Especialidad):</string>
+    <string name="ej_la_cocina_del_goro">Ej. La Cocina del Goro</string>
+    <string name="nombre_del_restaurante">Nombre del Restaurante:</string>
+    <string name="configura_tu_puesto">Configura tu Puesto</string>
+    <string name="resumen_del_restaurante">RESUMEN DEL RESTAURANTE</string>
+    <string name="guerrero_en_sesi_n">Guerrero en sesión:</string>
+    <string name="nombre_del_usuario">Nombre del Usuario</string>
+    <string name="establecimiento">Establecimiento:</string>
+    <string name="cargando_nombre">Cargando nombre...</string>
+</resources>
