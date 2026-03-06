@@ -44,8 +44,9 @@
             android:layout_height="50dp"
             android:background="@android:color/white"
             android:hint="@string/ej_la_cocina_del_goro"
+            android:inputType="textCapWords"
             android:paddingStart="10dp"
-            android:inputType="textCapWords" />
+            android:textColor="#000000" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -61,8 +62,9 @@
             android:layout_height="50dp"
             android:background="@android:color/white"
             android:hint="@string/ej_asados_y_parrilladas"
+            android:inputType="text"
             android:paddingStart="10dp"
-            android:inputType="text" />
+            android:textColor="#000000" />
 
         <TextView
             android:layout_width="wrap_content"
@@ -78,8 +80,9 @@
             android:layout_height="50dp"
             android:background="@android:color/white"
             android:hint="@string/tu_nombre_de_guerrero"
+            android:inputType="textPersonName"
             android:paddingStart="10dp"
-            android:inputType="textPersonName" />
+            android:textColor="#000000" />
 
         <Button
             android:id="@+id/btnContinuar"
